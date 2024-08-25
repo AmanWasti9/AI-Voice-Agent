@@ -1,0 +1,34 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.main-content {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  min-height: 100px;
+}
+
+.ai-response {
+  margin-top: 20px;
+}
+
+.btn-style {
+  margin-top: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

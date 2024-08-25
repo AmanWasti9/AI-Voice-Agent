@@ -1,0 +1,13 @@
+{
+  "carModels": [
+    {
+      "make": "Toyota",
+      "models": ["Corolla", "Camry", "Prius"]
+    },
+    {
+      "make": "Honda",
+      "models": ["Civic", "Accord", "Fit"]
+    }
+  ],
+  "services": ["Oil change", "Brake inspection", "Tire rotation"]
+}
